@@ -59,6 +59,12 @@ header {
     height: 100%;
 }
 
+.HeaderUserImg {
+    height: 90px;
+    width: 90px;
+    border-radius: 45px;
+}
+
 main {
     background-color: #E0F2F1;
     height: 1200px;
