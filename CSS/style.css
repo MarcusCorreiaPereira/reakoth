@@ -46,6 +46,7 @@ header {
 
 .CommunityButton:hover {
     background-color: #00695c;
+    padding: 0 20px;
 }
 
 .CommunityButton:hover,
