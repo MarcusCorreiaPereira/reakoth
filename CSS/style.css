@@ -42,7 +42,10 @@ header {
     margin-left: 48px;
     display: flex;
     align-items: center;
+}
 
+.CommunityButton:hover {
+    background-color: #00695c;
 }
 
 .CommunityButton:hover,
