@@ -26,9 +26,14 @@ header {
 }
 
 .HeaderMiddle {
+    font-size: 48px;
     flex: 1;
     display: flex;
     flex-direction: row;
+}
+
+.CommunityButton {
+    height: 100%;
 }
 
 .HeaderRight {
