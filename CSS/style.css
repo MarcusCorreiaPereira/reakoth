@@ -9,14 +9,13 @@ header {
     background-color: #009688;
     height: 80px;
     width: 100%;
-    display: flexbox;
-    flex-direction: row;
+    display: flex;
 }
 
 .HeaderLeft {
     height: 100%;
     width: 80px;
-    display:flexbox;
+    display: flex;
 }
 
 .HeaderLogoImg {
@@ -28,7 +27,7 @@ header {
 
 .HeaderMiddle {
     flex: 1;
-    display: flexbox;
+    display: flex;
     flex-direction: row;
 }
 
@@ -41,12 +40,12 @@ main {
     background-color: #E0F2F1;
     height: 1200px;
     width: 100%;
-    display: flexbox;
+    display: flex;
 }
 
 footer {
     background-color: #004D40;
     height: 200px;
     width: 100%;
-    display: flexbox;
+    display: flex;
 }
