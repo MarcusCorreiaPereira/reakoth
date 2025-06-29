@@ -21,8 +21,8 @@ header {
     height: 90%;
     width: 90%;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 100%;
+    left: 100%;
 }
 
 main {
