@@ -14,15 +14,14 @@ header {
 .HeaderLeft {
     height: 64px;
     width: 64px;
-    position: relative;
+    display:flexbox;
 }
 
 .HeaderLogoImg {
     height: 90%;
     width: 90%;
-    position: absolute;
-    top: 10%;
-    left: 10%;
+    margin-top: 4px;
+    margin-left: 4px;
 }
 
 main {
