@@ -26,14 +26,12 @@ header {
 }
 
 .HeaderMiddle {
-    font-size: 48px;
+    font-size: 32px;
+    color: #E0F2F1;
+    justify-content: center;
     flex: 1;
     display: flex;
     flex-direction: row;
-}
-
-.CommunityButton {
-    height: 100%;
 }
 
 .HeaderRight {
