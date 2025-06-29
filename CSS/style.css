@@ -38,6 +38,7 @@ header {
 
 .CommunityButton {
     height: 100%;
+    padding: 0 20px;
     line-height: 100%;
     margin-left: 48px;
     display: flex;
@@ -46,7 +47,6 @@ header {
 
 .CommunityButton:hover {
     background-color: #00695c;
-    padding: 0 20px;
 }
 
 .CommunityButton:hover,
