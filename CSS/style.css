@@ -2,6 +2,7 @@ body {
     color: #121212;
     font-size: 14px;    
     margin: 0;
+    font-family: sans-serif;
 }
 
 header {
@@ -22,6 +23,17 @@ header {
     width: 90%;
     margin-left: 8px;
     margin-top: 2px;
+}
+
+.HeaderMiddle {
+    width: 100%;
+    display: flexbox;
+    flex-direction: row;
+}
+
+.HeaderRight {
+    width: 80px;
+    height: 100%;
 }
 
 main {
