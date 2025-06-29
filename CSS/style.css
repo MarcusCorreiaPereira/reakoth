@@ -27,7 +27,7 @@ header {
 }
 
 .HeaderMiddle {
-    width: 100%;
+    width: 100px;
     display: flexbox;
     flex-direction: row;
 }
