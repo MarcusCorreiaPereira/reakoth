@@ -16,6 +16,7 @@ header {
     height: 100%;
     width: 80px;
     display: flex;
+    
 }
 
 .HeaderLogoImg {
@@ -37,6 +38,11 @@ header {
 
 .CommunityButton {
     margin-left: 48px;
+}
+
+.CommunityButton:hover,
+.HeaderLeft:hover {
+    cursor: pointer;
 }
 
 .HeaderRight {
