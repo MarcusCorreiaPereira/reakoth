@@ -78,12 +78,12 @@ main {
 
 .StartContent {
     display: flex;
-    width: 200px;
     height: 300px;
     flex-direction: row;
     width: 96%;
     margin-top: 40px;
-    
+    justify-content: space-between;
+
     background-color: palevioletred;
 }
 
