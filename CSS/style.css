@@ -96,11 +96,13 @@ main {
 
 .TripDivImg {
     flex: 3;
+    display: flex;
+    align-items: center;
 }
 
 .TripImg {
     width: 97%;
-    height: 97%;
+    height: auto;
 }
 
 .TripDivContent {
