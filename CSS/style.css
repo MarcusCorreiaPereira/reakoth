@@ -87,7 +87,7 @@ main {
 }
 
 .Trip {
-    width: 420px;
+    width: 480px;
     height: 240px;
     display: flex;
     flex-direction: row;
