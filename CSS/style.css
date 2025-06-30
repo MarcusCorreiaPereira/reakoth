@@ -82,6 +82,7 @@ main {
     height: 300px;
     flex-direction: row;
     width: 96%;
+    margin-top: 40px;
 }
 
 footer {
