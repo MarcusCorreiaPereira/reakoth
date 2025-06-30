@@ -123,6 +123,14 @@ main {
     border-radius: 100px;
 }
 
+.TripContentDescription {
+    flex:1;
+}
+
+.TripContentInfo {
+    height: 16px;
+}
+
 footer {
     background-color: #004D40;
     height: 200px;
