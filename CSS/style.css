@@ -136,7 +136,7 @@ main {
 
 .TripContentInfo {
     height: 20px;
-    padding-right: 3px;
+    padding-right: 6px;
     padding-bottom: 2px;
     display: flex;
     justify-content: end;
