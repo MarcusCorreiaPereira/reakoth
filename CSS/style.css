@@ -80,6 +80,7 @@ main {
     display: flex;
     flex-direction: row;
     width: 96%;
+    background-color: #d4e4e3;
 }
 
 footer {
