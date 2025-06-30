@@ -80,7 +80,7 @@ main {
     display: flex;
     height: 300px;
     flex-direction: row;
-    width: 96%;
+    width: 86%;
     margin-top: 40px;
     justify-content: space-between;
     align-items: center;
