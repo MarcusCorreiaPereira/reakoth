@@ -115,6 +115,7 @@ main {
 .TripContentUser {
     display: flex;
     flex-direction: row;
+    height: 50px;
 }
 
 .TripUserPfp {
@@ -123,12 +124,18 @@ main {
     border-radius: 100px;
 }
 
+.TripUserName {
+    display: flex;
+    align-items: center;
+    margin-left:5px;
+}
+
 .TripContentDescription {
     flex:1;
 }
 
 .TripContentInfo {
-    height: 16px;
+    height: 20px;
 }
 
 footer {
