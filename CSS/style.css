@@ -79,7 +79,7 @@ main {
 .StartContent {
     display: flex;
     flex-direction: row;
-    
+    width: 96%;
 }
 
 footer {
