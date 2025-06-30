@@ -84,6 +84,7 @@ main {
     margin-top: 40px;
     justify-content: space-between;
     align-items: center;
+    color: #E0F2F1;
 }
 
 .TripReviewDiv {
@@ -91,7 +92,7 @@ main {
     height: 240px;
     display: flex;
     flex-direction: row;
-    background-color: paleturquoise;
+    background-color: #daebea;
 }
 
 .TripDivImg {
