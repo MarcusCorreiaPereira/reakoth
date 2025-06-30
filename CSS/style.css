@@ -118,9 +118,17 @@ main {
     height: 40px;
 }
 
-.TripUserPfp {
+.TripUserPfpDiv {
     height: 40px;
     width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TripUserPfp {
+    height: 36px;
+    width: 36px;
     border-radius: 100px;
 }
 
