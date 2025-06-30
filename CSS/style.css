@@ -87,6 +87,12 @@ main {
     background-color: palevioletred;
 }
 
+.Trip {
+    width: 300px;
+    height: 200px;
+    background-color: paleturquoise;
+}
+
 footer {
     background-color: #004D40;
     height: 200px;
